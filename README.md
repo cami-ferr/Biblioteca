@@ -49,7 +49,7 @@ Biblioteca.WinForms: interface gráfica desenvolvida com Windows Forms.
 
 1. Clone este repositório:
 
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/cami-ferr/Biblioteca.git
 
 2. Abra o arquivo Biblioteca.sln no Visual Studio.
 
