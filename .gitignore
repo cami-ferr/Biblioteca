@@ -1,0 +1,20 @@
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Arquivos gerados pelo .NET
+bin/
+obj/
+
+# Arquivos temporários
+*.cache
+*.log
+
+# Banco de dados local
+*.mdf
+*.ldf
+
+# Configurações locais com credenciais
+appsettings.Development.json
