@@ -45,6 +45,24 @@ Biblioteca: entidades, contexto do banco de dados e regras de negócio.
 
 Biblioteca.WinForms: interface gráfica desenvolvida com Windows Forms.
 
+**Download**
+
+https://github.com/cami-ferr/Biblioteca/releases/tag/v1.0.0
+
+O aplicativo está disponível em formato .zip na seção Releases.
+
+**Requisito:** 
+Windows 64 bits com SQL Server Express LocalDB instalado. O aplicativo cria o banco de dados automaticamente na primeira execução.
+
+**Como utilizar o aplicativo**
+
+1. Baixe o arquivo "Aplicativo.zip" na seção [Releases](https://github.com/cami-ferr/Biblioteca/releases/tag/v1.0.0).
+2. Extraia o conteúdo do arquivo ZIP.
+3. Certifique-se de que o SQL Server Express LocalDB esteja instalado.
+4. Execute "Biblioteca-v1.0.0-x64.exe".
+
+O banco de dados e suas tabelas serão criados automaticamente na primeira execução.
+
 **Como executar**
 
 1. Clone este repositório:
